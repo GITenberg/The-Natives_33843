@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34332
     wikipedia: http://en.wikipedia.org/wiki/Katherine_MacLean
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33843#The-Natives
 gutenberg_issued: '2010-10-06'
 gutenberg_type: Text
 identifiers:
